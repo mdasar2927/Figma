@@ -1,13 +1,10 @@
 .container--0- {
   position: absolute;
-  left: -143px;
-  top: 23px;
+  left: 289px;
+  top: 24px;
   width: 393px;
   height: 852px;
   background-color: #ffffff;
-  border-width: 1px;
-  border-style: solid;
-  border-color: #000000;
   justify-content: start;
   align-items: start;
   border-radius: 10px;
@@ -16,23 +13,23 @@
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
 }
-.text-0-1-4 {
-  width: 125px;
-  height: 45px;
-  color: #ff0000;
-  font-size: 28px;
-  font-family: Irish Grover, "Regular";
+.text-0-1-1 {
+  width: 350px;
+  height: 49px;
+  color: #000000;
+  font-size: 38px;
+  font-family: JejuHallasan, "Regular";
   font-weight: 400;
   text-align: center;
   vertical-align: top;
 }
-.text-0-1-5 {
-  width: 150px;
-  height: 49px;
-  color: #ff0000;
-  font-size: 28px;
-  font-family: Irish Grover, "Regular";
+.text-0-1-2 {
+  width: 197px;
+  height: 520px;
+  color: #001f3f;
+  font-size: 32px;
+  font-family: Jaro, "Regular";
   font-weight: 400;
-  text-align: center;
+  text-align: left;
   vertical-align: top;
 }
